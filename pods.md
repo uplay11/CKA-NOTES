@@ -1,3 +1,3 @@
-#Create a Pod
+# Create a Pod
 
 kubectl run nginx --image=nginx
